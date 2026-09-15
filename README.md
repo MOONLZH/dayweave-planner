@@ -2,6 +2,14 @@
 
 面向个人的多项目时间轴与每日任务安排工具。电脑负责规划，手机可查看、完成任务、编辑备注和改期。
 
+## Mac 安装版
+
+### [下载 Mac 安装包（.dmg）](https://github.com/MOONLZH/dayweave-planner/raw/refs/heads/main/downloads/macos/Dayweave-1.0.0-universal.dmg)
+
+支持 macOS 14 或更新版本，包含 Apple 芯片和 Intel 两种架构。下载后双击 DMG，将“日序.app”拖入“Applications（应用程序）”，再打开日序。
+
+桌面客户端继续使用现有云端数据，需要联网并登录有访问权限的 ChatGPT 账号。当前安装包使用 ad-hoc 签名，尚未经过 Apple 公证，首次打开可能被 macOS 提示拦截。详见 [Mac 安装与构建说明](desktop/macos/README.md) 和 [SHA-256 校验文件](downloads/macos/SHA256SUMS.txt)。
+
 ## 在线使用
 
 ### 👉 [打开「日序 Dayweave」](https://dayweave-project-planner.l371156018.chatgpt.site/)

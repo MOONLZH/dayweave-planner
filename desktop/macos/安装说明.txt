@@ -1,0 +1,31 @@
+日序 · Dayweave 1.0.0
+
+系统要求：macOS 14 Sonoma 或更新版本，支持 Apple 芯片和 Intel Mac。
+
+安装
+1. 双击 Dayweave-1.0.0-universal.dmg。
+2. 将“日序.app”拖到“Applications（应用程序）”。
+3. 从“应用程序”打开“日序”。
+
+使用
+首次打开需要登录具有访问权限的 ChatGPT 账号。当前线上实例为私人访问。
+客户端需要联网；项目、任务和备注继续保存到原来的云端数据库，与网页版共用。
+登录状态由系统 WebKit 保存在本机，和 Safari / Chrome 的登录状态相互独立。
+这是桌面客户端，不包含离线数据库，也不会导入或复制其他浏览器的登录数据。
+
+快捷键
+⌘R：刷新
+⌘1：回到日序
+⌘+ / ⌘- / ⌘0：放大 / 缩小 / 实际大小
+⌘⇧B：在默认浏览器打开日序
+⌘W：关闭窗口（点击 Dock 图标可重新打开）
+⌘Q：退出
+
+分发状态
+此构建使用本机临时签名，尚未经过 Apple Developer ID 签名和公证。
+从网络下载后，macOS 可能阻止首次打开；请只在确认来源为自己的项目后，按系统提示允许打开。
+无需关闭 Gatekeeper 或系统完整性保护。
+
+源码与许可
+https://github.com/MOONLZH/dayweave-planner
+MIT License · Copyright (c) 2026 MOONLZH and Dayweave contributors

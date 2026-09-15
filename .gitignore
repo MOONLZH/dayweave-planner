@@ -47,3 +47,6 @@ next-env.d.ts
 
 # TypeScript incremental cache
 *.tsbuildinfo
+
+# Packaged macOS applications and installers
+/releases/
