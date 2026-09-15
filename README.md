@@ -2,6 +2,12 @@
 
 面向个人的多项目时间轴与每日任务安排工具。电脑负责规划，手机可查看、完成任务、编辑备注和改期。
 
+## 在线使用
+
+### 👉 [打开「日序 Dayweave」](https://dayweave-project-planner.l371156018.chatgpt.site/)
+
+电脑或手机浏览器均可打开。当前线上实例为私人访问，需使用有访问权限的 ChatGPT 账号登录。
+
 源码：[MOONLZH/dayweave-planner](https://github.com/MOONLZH/dayweave-planner) · 许可证：[MIT](LICENSE)
 
 ## 已实现
